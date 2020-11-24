@@ -1,4 +1,6 @@
 🤔
+
+[About me ](https://github.com/Werckut/werckut/wiki) 
 <!--
 **Werckut/werckut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
