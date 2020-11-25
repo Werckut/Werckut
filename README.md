@@ -1,6 +1,7 @@
 🤔
 
-> [About me](https://github.com/Werckut/werckut/wiki/About-me-(ENG)) 
+> [About me](https://github.com/Werckut/werckut/wiki/About-me-(ENG))
+
 > [Обо мне](https://github.com/Werckut/werckut/wiki/Обо-мне-(RUS))
 
 
