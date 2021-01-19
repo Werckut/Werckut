@@ -1,5 +1,5 @@
 🤔
-> [[My GitPage]](https://github.io/401)
+> [[My GitPage]]()
 >
 > [[Discussions]](https://github.com/Werckut/Werckut/discussions) Talk to me!
 >
