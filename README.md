@@ -1,11 +1,9 @@
 🤔
-> [[My GitPage]]()
+> [My GitPage](https://werckut.github.io)
 >
-> [[Discussions]](https://github.com/Werckut/Werckut/discussions) Talk to me!
+> [Discussions](https://github.com/Werckut/Werckut/discussions)
 >
-> [[About me [EN]](https://github.com/Werckut/werckut/wiki/About-me-(ENG))
->
-> [[Обо мне [RU]](https://github.com/Werckut/werckut/wiki/Обо-мне-(RUS))
+> [My wiki](https://github.com/Werckut/Werckut/wiki)
 
 
 <!--
