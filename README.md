@@ -1,10 +1,4 @@
 🤔
-> [My GitPage](https://werckut.github.io)
->
-> [Discussions](https://github.com/Werckut/Werckut/discussions)
->
-> [My wiki](https://github.com/Werckut/Werckut/wiki)
-
 
 <!--
 **Werckut/werckut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
