@@ -1,5 +1,7 @@
 **My stack is overflow** 🤔
 
+https://training.github.com/downloads/ru/github-git-cheat-sheet/
+
 <!--
 **Werckut/werckut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
